@@ -1,0 +1,2 @@
+Recognized Text:
+hello everyone my name is krishnaveni this is my speech recognition system project developer for the quarter internship speech recognition is a technology that converts spoken language into written text
